@@ -1,50 +1,18 @@
-# Welcome to your Expo app 👋
+# Project M4: Interaction Master ⚡
+Tugas praktikum Minggu 4 - State & Events.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## 📸 Preview
+![App Greeting] ![tugasState2](https://github.com/user-attachments/assets/1032b6c9-a158-446c-a4a9-e18fcefc2de2)
 
-## Get started
 
-1. Install dependencies
+## 🛠️ Logic Implemented
+- **REACT HOOKS (State Management).
+- **EVENT HANDLING (User Interaction).
+- **CONDITIONAL RENDERING.
+- **ANIMATION LOGIC (Animated API)
+- **DATA STRUCTURE & ARRAY METHODS
+- **STYLING LOGIC (StyleSheet)
+- **DATA FLOW ARCHITECTURE
 
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## 🔗 Demo
+[Cek di Expo Snack] https://snack-runtime.eascdn.net/v2/54/index.html?initialUrl=exp%3A%2F%2Fu.expo.dev%2F933fd9c0-1666-11e7-afca-d980795c5824%3Fruntime-version%3Dexposdk%253A54.0.0%26channel-name%3Dproduction%26snack%3D%2540mabdullah45%252Fstateabdul%26snack-channel%3DB4vHEoWNhw&origin=https%3A%2F%2Fsnack.expo.dev&verbose=false
